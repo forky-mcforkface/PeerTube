@@ -82,7 +82,7 @@
     "color-bits": "^1.2.0",
     "core-js": "^3.50.0",
     "debug": "^4.4.3",
-    "dompurify": "^3.4.13",
+    "dompurify": "^3.4.16",
     "eslint": "^10.8.1",
     "eslint-config-love": "^154.1.0",
     "expect-webdriverio": "^6.0.2",
