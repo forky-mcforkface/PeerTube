@@ -150,7 +150,7 @@
     "fs-extra": "^11.4.0",
     "got": "^15.1.0",
     "got-ssrf": "^3.0.0",
-    "handlebars": "^4.7.9",
+    "handlebars": "^4.7.10",
     "helmet": "^8.3.0",
     "http-problem-details": "^0.1.7",
     "i18next": "^26.4.2",
