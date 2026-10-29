@@ -172,7 +172,7 @@
     "maxmind": "^5.0.7",
     "memoizee": "^0.4.17",
     "morgan": "^1.12.1",
-    "multer": "^2.3.0",
+    "multer": "^2.5.0",
     "node-html-parser": "^9.0.4",
     "node-media-server": "^2.7.4",
     "nodemailer": "^9.1.1",
