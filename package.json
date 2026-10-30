@@ -175,7 +175,7 @@
     "multer": "^2.3.0",
     "node-html-parser": "^9.0.4",
     "node-media-server": "^2.7.4",
-    "nodemailer": "^9.1.1",
+    "nodemailer": "^10.1.4",
     "opentelemetry-instrumentation-sequelize": "^0.41.0",
     "otpauth": "^9.5.2",
     "p-queue": "^9.3.3",
